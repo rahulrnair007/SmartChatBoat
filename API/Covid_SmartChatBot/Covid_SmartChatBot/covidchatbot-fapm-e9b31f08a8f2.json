@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "covidchatbot-fapm",
+  "private_key_id": "e9b31f08a8f2f10ce1f2cbec8f25a20e61132c54",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+VxJKfcCBXSHd\nT0UCbKbEyx2IuO1j7HleFa0sRd57BZ8G4yLP8wie6bOp9ayQR3GiOePPBm1R5o6Q\nJEvaUj1/kZvFY4UcOnu8WTtAytlwO/ibuHMZg1y0kJeeGQzKcl0HqBPOHQ9XejXE\nYfQhy/I7wOATsy6+Bc1j7Wq50i2rTVDDzLl+Iz1IPJL/P58q7mh5Ky5RusmbDIO4\ngBKZDaqDrTshJu2v9OfZEiqS1D7X49xZscCIpEfN8Dae5JNxST9M/g/xJxm7apZD\n50GVPAXXzl+whNnCWWyjS0J65zpMKpvE+8LilFlydT+forknSazpkoeEwj+iJCvZ\nkqO9ICnPAgMBAAECggEADiOBTXzo2KiBNE4dRgWpylLSLKPxUlZbBO+e76Z4VR1r\nnNiGGfn8yR0lW48kad/nY3xhsoZQ3DVq9URqSVs0Npkrf9lEJn7Q+S03AbmaYZll\nfrUQAQmpJb/bMK2+Av3FcPpTD6DzUPVYMBscm4lpmCGxeL/QeDdjHzSgFGc16D79\ntUVhQLoTtjKXjCW7be7rs+DnZkcEwdolAeX7wYN5XJbNSQIz6pqoheh06GIGmAON\nzZTumDcVCSRoFZUPUq6ng3Sh9QVYaaW2MZh4Q01TbEjUJt6CIf4MG6mWpB+tU3Zj\nLDfO66Y0HVY6GjyF7OdYzB8RwpisRHEvxh5Rv8p5+QKBgQDgO0xHXsqyM/Acidb5\nPTIZSdtCfvlB4bskAVw+s2PzOqNHbNvrPyujz1evHQ100tLEkQeZKdtDjj/epnYh\nqv/qU6EmCCZZ2iiu4yUrYOnMxbkkkb9B6tllAhxgSmIPY86winNeaMtObK6VIFtx\ni+OvL0Kt53+C7TIgY1JJBjz1uQKBgQDZTo42pDb2FBTE++kRtq01t5okJsRrrQAQ\nobqciotxAkQuPjgnBk/jra+AWawp/zRRZxzw38VLyit0TnAY3UJampOpL4OqzUba\n9cwcpkNEi9V0oXVfTW74DY/6Nd4GIjFpvw1FeCzG7f0s1bcfbQ4reJF3fOWvBP5N\nuPGYb7nfxwKBgQC5f1SzFjAJC/5vHXjB52YylW7Vq8T4Q41VU+rD1BOze6bnx56H\nFlM7yKN5MkeXhXDnPDNU+dNyJ5Oe1YaUg6oCZ/zAQa24V0mgpDhzklDYHhnzrr7S\nAT6m2QAwiFhm8uJiGacnSvolfrNOmt4LKPbKTgaTZxeNcDwvnvrLfmWfwQKBgQCd\nZ2Btxe8lug/9S3dcZFT8lvxo+UfHsu1cHrncUCKG/hxC3sCvy8usYI/CSbICTaAo\n4qa892mi51MokPRznjlFBbi1kPwviTesvORXUDtjeGJqc9Vf7efWd4R1ufUTvkrK\njR/g1RaiFZsQkdFuSwE7jb7YrTh12QkXZUJip3Mc2wKBgHKhr0jP8x2+s+mW9YbK\npKrDfZ9z2RGpAlqkDgXHuUVY9/zbNJCL8bfrWoPpLajcsJ+u9ASEXZNsErBRHCOG\nEJE9kapYxd7LJiTck1+u/9bdx+ISl+h4jfdDnQSY16ztoPhyaD/MIgIuTur8NfCE\nXowGOZDuWJ0ugwUHEWpBr75s\n-----END PRIVATE KEY-----\n",
+  "client_email": "testserviceaccount@covidchatbot-fapm.iam.gserviceaccount.com",
+  "client_id": "116586373437095998201",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testserviceaccount%40covidchatbot-fapm.iam.gserviceaccount.com"
+}
